@@ -1,0 +1,9 @@
+results:
+In my experiment, I attempted to to make the most efficient checker possible. to do this, I first increased the amount
+of items he was able to do per minute, and decrease the amount of items the customers were able to take. This allowed him
+to go much faster. however, this meant that he was going through customers extremely fast and his idle times were way up. 
+I'm not paying him to just sit around. This meant my customers needed to be more efficient as well. By decreasing the amount 
+of time it took shoppers to retrieve their items and making it so that customers came into the store more frequently, I 
+made sure that my checker always had a near-constant stream of work to do. Now, the store could hypothetically be made more 
+efficient with more checkers, but I believe that hard work builds character and if I can get by without paying multiple employees,
+I will. I also added processing to show what the longest and shortest wait times were.
